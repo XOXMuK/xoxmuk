@@ -9,6 +9,15 @@
 [![](https://img.shields.io/github/followers/XOXMuK?style=flat&logo=github&logoColor=white&logoSize=32&label=Followers&color=green
 )](https://github.com/XOXMuK?tab=follower "GitHub Followers")
 
+<a href="https://modrinth.com/user/XOXMuK" target="_blank">
+  <img src="https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/a05e2307b42762d64a370a3cf3e8b6b30735dce1/Branding/Wordmark/wordmark-dark.svg" 
+    alt="Modrinth Logo" 
+    class="logo-img"
+    height=32px
+    width=auto
+  >
+</a>
+
   </div>
 
 </body>
