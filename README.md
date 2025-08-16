@@ -4,7 +4,10 @@
 
   <h1>WELCOME</h1>
 
-[![](https://img.shields.io/github/stars/yushi4ka/yushi4ka.github.io?style=flat&label=Stars&color=gold&logo=github)](https://github.com/yushi4kastargazers "GitHub Stars")
+[![](https://img.shields.io/github/stars/XOXMuK?style=flat&logo=github&logoColor=white&logoSize=32&label=Stars&color=yellow
+)](https://github.com/XOXMuK?tab=stars "GitHub Stars")
+[![](https://img.shields.io/github/followers/XOXMuK?style=flat&logo=github&logoColor=white&logoSize=32&label=Followers&color=green
+)](https://github.com/XOXMuK?tab=follower "GitHub Followers")
 
   </div>
 
